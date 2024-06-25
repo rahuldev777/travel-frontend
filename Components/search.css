@@ -1,0 +1,14 @@
+:root {
+    --primary-color:#F5385D;
+}
+
+.button {
+   
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    background-color: var(--primary-color);
+    border: 0;
+  
+    padding: 0;
+  }

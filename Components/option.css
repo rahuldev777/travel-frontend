@@ -1,0 +1,19 @@
+.icon:hover{
+  
+    border-bottom: 2px solid pink;
+   
+    
+}
+.main  {
+    overflow: hidden;
+}
+.hr{
+    overflow: hidden;
+   
+}
+.icon::after{
+    content: "";
+    position: absolute;
+    top: 20px;
+    background-color: blue;
+}

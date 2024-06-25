@@ -1,0 +1,86 @@
+export default [
+{
+    "Title": "Luxury Private Suite Estate overlooking the sea",
+    "place": "Room in boutique hotel in Gokarna, India",
+    "Occupancy": "3 guests 1 bedroom 1 bed 1 private bathroom",
+    "type":"view",
+    "price": "$"+1200,
+    "img": "https://a0.muscache.com/im/pictures/1d9c40a4-385c-4682-8f98-03a5c8cdd5bd.jpg?im_w=1200",
+},
+{
+    "Title": "Honeychilk Palace Breakfast Wifi Lawn",
+    "place": "Entire villa in Vathalmalai, India",
+    "Occupancy": "12 guests 4 bedrooms 4 beds 4 bathrooms",
+    "type":"view",
+    "price": "₹31,198 /night",
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-817735985362207319/original/ce42f456-4b25-4ec5-9799-aae05165bab7.jpeg?im_w=1200",
+},
+{
+    "Title": "Amogh: Present in the past",
+    "place": "Entire villa in Vathalmalai, India",
+    "Occupancy": "12 guests 4 bedrooms 4 beds 4 bathrooms",
+    "price": "₹31,198 /night",
+    "type":"view",
+    "img": "https://a0.muscache.com/im/pictures/hosting/Hosting-1059697584385179008/original/13ce6702-21da-4dac-8401-3f42ef9453b5.jpeg?im_w=1200",
+},
+{
+    "Title": "Amilla Villa Estate",
+    "place": "Entire villa in Baa Atoll, Maldives",
+    "Occupancy": "12 guests6 bedrooms7 beds6 bathrooms",
+    "price": "₹31,198 /night",
+    "type":"beach",
+    "img": "https://a0.muscache.com/im/pictures/82e3a044-9e2a-4555-9bee-608a862b3c59.jpg?im_w=1200",
+},
+{
+    "Title": "Luxury Ocean Villa With Private Pool & Glass Floor",
+    "place": "Private room in resort in Haa Alifu Atoll, Maldives ",
+    "Occupancy": "4 guests1 bedroom 1 bed 1 shared bathroom",
+    "price": "₹31,198 /night",
+    "type":"beach",
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-942016843110989439/original/9021de81-e6a8-4a52-affa-a97fd1e82d08.jpeg?im_w=1200",
+},
+{
+    "Title": "Chateau Kas Peninsula",
+    "place": "Castle in Kaş, Turkey ",
+    "Occupancy": "4 guests1 bedroom 1 bed 1 shared bathroom",
+    "price": "₹31,198 /night",
+    "type":"castle",
+    "img": "https://a0.muscache.com/im/pictures/miso/Hosting-681645417000773663/original/75f1cb7c-1c4d-48d6-b108-7a36f9f0af7e.jpeg?im_w=1200",
+},
+{
+    "Title": "Pandanus Chill",
+    "place": "Entire villa in Kamburugamuwa, Sri Lanka",
+    "Occupancy": "4 guests1 bedroom 1 bed 1 shared bathroom",
+    "price": "₹31,198 /night",
+    "type":"surfing",
+    "img":"https://a0.muscache.com/im/pictures/miso/Hosting-54218526/original/12c0d441-c1e1-477a-8238-b27afb49ef0c.jpeg?im_w=1200",
+},
+{
+    "Title": "The Beach Condo - Mount Lavinia",
+    "place": "Entire holiday home in Dehiwala-Mount Lavinia, Sri Lanka",
+    "Occupancy": "4 guests1 bedroom 1 bed 1 shared bathroom",
+    "price": "₹31,198 /night",
+    "type":"pool",
+    "img":"https://a0.muscache.com/im/pictures/miso/Hosting-54023670/original/7aaf6763-89d9-4306-a0b4-38b7de364541.jpeg?im_w=1200",
+},
+{
+    "Title": "View-Topia Treehouse",
+    "place": "Private room in hut in Munnar, India",
+    "Occupancy": "4 guests1 bedroom 1 bed 1 shared bathroom",
+    "price": "₹31,198 /night",
+    "type":"treehouse",
+    "img":"https://a0.muscache.com/im/pictures/89565da2-41b0-443f-84a6-62930398d3cd.jpg?im_w=1200",
+},
+{
+    "Title": "Glasshouse On The Bay",
+    "place": "Entire home in Siolim, India",
+    "Occupancy": "4 guests1 bedroom 1 bed 1 shared bathroom",
+    "price": "₹31,198 /night",
+    "type":"luxury",
+    "img":"https://a0.muscache.com/im/pictures/miso/Hosting-878171574433690191/original/c9e70be8-3ef7-41cb-a710-e37dca8df58f.jpeg?im_w=1200",
+},
+
+
+
+
+]

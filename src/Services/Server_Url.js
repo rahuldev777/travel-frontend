@@ -1,0 +1,1 @@
+export const SERVER_URL="https://travel-server-85v3.onrender.com"
